@@ -1,7 +1,8 @@
-package com.example.finalproject_netfelx
+package com.example.finalproject_netfelx.MainActivity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.finalproject_netfelx.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
