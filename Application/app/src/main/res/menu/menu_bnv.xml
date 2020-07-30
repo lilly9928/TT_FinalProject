@@ -3,15 +3,15 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/nav_home"
+        android:id="@+id/bnv_home"
         android:icon="@drawable/home_icon"
         android:title="home" />
     <item
-        android:id="@+id/nav_save"
+        android:id="@+id/bnv_save"
         android:icon="@drawable/save_icon"
         android:title="save" />
     <item
-        android:id="@+id/nav_mypage"
+        android:id="@+id/bnv_mypage"
         android:icon="@drawable/mypage_icon"
         android:title="mypage" />
 
