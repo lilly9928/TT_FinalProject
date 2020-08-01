@@ -1,4 +1,12 @@
 package com.example.finalproject_netfelx.MainActivity
 
-class SelectPickActivity {
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import com.example.finalproject_netfelx.R
+
+class SelectPickActivity: AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_select)
+    }
 }
